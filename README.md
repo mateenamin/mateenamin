@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mateen Amin! 👋
 
-<!--
-**mateenamin/mateenamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer (MERN Stack)
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Tailwind CSS
+- Node.js, Express, MongoDB (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🛒 Amazon Clone
+- 📝 Quiz App  
+- 💼 Portfolio Website
+
+## 🎯 Goal
+Looking for Frontend/Full Stack opportunities in Gulf region
+
+## 📫 Contact
+- LinkedIn: your-link
+- Email: your-email
