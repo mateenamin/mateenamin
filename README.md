@@ -15,7 +15,7 @@ I completed the **MERN Stack** and I'm currently building real-world projects wh
 - 💼 Working on a **Job Portal** web application
 - 🌱 Currently learning **Next.js** and **TypeScript**
 - 💻 Open to **remote jobs**, **freelance** and **collaboration**
-- 📧 Reach me at **your-email@gmail.com**
+- 📧 Reach me at **mateenamin1122@gmail.com**
 
 ---
 
@@ -75,6 +75,6 @@ I completed the **MERN Stack** and I'm currently building real-world projects wh
 I'm looking for my **first full-stack job** and also open to **freelance projects**.  
 Feel free to reach out — let's build something together!
 
-**📧 your-email@gmail.com** · **📍 Lahore, Pakistan**
+**📧 mateenamin1122@gmail.com** · **📍 Lahore, Pakistan**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=100&section=footer)
